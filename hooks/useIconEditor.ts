@@ -15,8 +15,8 @@ export interface IconState {
 export const useIconEditor = () => {
     const { state, set, undo, redo, canUndo, canRedo } = useHistory<IconState>({
         type: 'rounded',
-        backgroundColor: '#00e7ff', // Colore sfondo (se attivo)
-        iconColor: '#1e293b',      // Colore icona
+        backgroundColor: '#00e7ff',
+        iconColor: '#1e293b',
         iconSize: 220,
         borderRadius: 80,
         strokeWidth: 2,
