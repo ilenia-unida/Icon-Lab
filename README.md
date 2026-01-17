@@ -1,4 +1,4 @@
-# Icon Lab Studio
+# Icon Lab 
 
 **Icon Lab Studio** è un'applicazione avanzata per la personalizzazione e l'esportazione di icone SVG. Sviluppata con un'interfaccia moderna in stile "Bento Box", offre un'esperienza di design fluida e intuitiva per sviluppatori e grafici.
 
