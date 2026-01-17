@@ -3,7 +3,7 @@
 **Icon Lab Studio** è un'applicazione avanzata per la personalizzazione e l'esportazione di icone SVG. Sviluppata con un'interfaccia moderna in stile "Bento Box", offre un'esperienza di design fluida e intuitiva per sviluppatori e grafici.
 
 ## 🚀 Funzionalità principali
-- **Libreria Integrata**: Accesso immediato a oltre 22 icone del set Lucide.
+- **Libreria Integrata**: Accesso immediato a oltre 30 icone del set Lucide.
 - **Design Bento Box**: Interfaccia pulita, organizzata in moduli e completamente responsive.
 - **Personalizzazione Live**: Modifica istantanea del colore di sfondo, del colore dell'icona e della forma del contenitore (Cerchio, Quadrato, Arrotondato).
 - **Sizing & Shadow**: Controllo preciso della dimensione tramite slider ciano e toggle per ombreggiature morbide (Soft Shadow).
