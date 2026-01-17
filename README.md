@@ -2,19 +2,26 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Icon Lab Studio
 
-This contains everything you need to run your app locally.
+**Icon Lab Studio** è un'applicazione avanzata per la personalizzazione e l'esportazione di icone SVG. Sviluppata con un'interfaccia moderna in stile "Bento Box", offre un'esperienza di design fluida e intuitiva per sviluppatori e grafici.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fUYSyqG7Cl0clJ4l1mdNvtlYoXmk4ihE
+## 🚀 Funzionalità principali
+- **Libreria Integrata**: Accesso immediato a oltre 22 icone del set Lucide.
+- **Design Bento Box**: Interfaccia pulita, organizzata in moduli e completamente responsive.
+- **Personalizzazione Live**: Modifica istantanea del colore di sfondo, del colore dell'icona e della forma del contenitore (Cerchio, Quadrato, Arrotondato).
+- **Sizing & Shadow**: Controllo preciso della dimensione tramite slider ciano e toggle per ombreggiature morbide (Soft Shadow).
+- **Esportazione Rapida**: Funzione per copiare il codice SVG pulito negli appunti o scaricare direttamente il file `.svg`.
 
-## Run Locally
+## 🛠️ Tecnologie utilizzate
+- **React 19**: Per una gestione dello stato reattiva e moderna.
+- **Vite**: Come build tool ultra-veloce.
+- **Tailwind CSS**: Per uno styling rapido ed elegante (caricato via CDN).
+- **Lucide React**: Per un set di icone vettoriali di alta qualità.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+## 💻 Installazione Locale
+1. Clona il repository sul tuo computer.
+2. Installa le dipendenze necessarie:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+3. Avvia l'ambiente di sviluppo:
    `npm run dev`
