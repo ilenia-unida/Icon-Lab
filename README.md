@@ -15,9 +15,4 @@
 - **Tailwind CSS**: Per uno styling rapido ed elegante (caricato via CDN).
 - **Lucide React**: Per un set di icone vettoriali di alta qualità.
 
-## 💻 Installazione Locale
-1. Clona il repository sul tuo computer.
-2. Installa le dipendenze necessarie:
-   `npm install`
-3. Avvia l'ambiente di sviluppo:
-   `npm run dev`
+Sviluppato da Ilenia Unida- 2025
